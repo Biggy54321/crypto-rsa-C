@@ -5,10 +5,11 @@ The implementation of RSA algorithm was divided into the following parts:
 2. Encryption
 3. Decryption
 
-The implementation of RSA algorithm has the following parameters:
-1. Plaintext block size - 8 bits
-2. Key length (size of **n**) - 16 bits
-3. Ciphertext block size corresponding to one plaintext block - 16 bits
+|**Parameter**|**Value**|
+|-|-|
+|Plaintext block size|8 bits|
+|Key length (size of **n**)|16 bits|
+|Ciphertext block size|16 bits|
 
 The implementation has the following programs:
 
